@@ -1,8 +1,7 @@
 ### ¡Hi!, I am Maynor Peña 👋
 
-[![Instagram Follow](](https://www.instagram.com/pena_988/)
+<code><img height="20" src="https://www.codewars.com/users/PENA98/badges/large"></code>
 
-https://www.codewars.com/users/PENA98/badges/large
 <!--
 **PENA98/PENA98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
