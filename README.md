@@ -1,10 +1,15 @@
-### ¡Hi!, I am Maynor Peña 👋
+## ¡Hi!, I am Maynor Peña 👋
 
-## ¡Come and practice your coding skills!
+### ¡Codewars rank!
 <code><img height="20" src="https://www.codewars.com/users/PENA98/badges/large"></code>
 
-### Github Stats
+## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PENA98&show_icons=true&hide_border=true&theme=radical&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PENA98&langs_count=8&theme=radical&count_private=true&layout=compact
+)](https://github.com/PENA98/github-readme-stats)
+
 
 
 <!--
