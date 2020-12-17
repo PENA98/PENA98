@@ -6,9 +6,11 @@
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PENA98&show_icons=true&hide_border=true&theme=radical&count_private=true)
 
-
+## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PENA98&langs_count=8&theme=radical&count_private=true&layout=compact
 )](https://github.com/PENA98/github-readme-stats)
+
+Outside of [GitHub](https://github.com/PENA98/), You can **find me. Currently I'm **free to contribute**
 
 
 
