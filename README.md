@@ -12,6 +12,10 @@
 
 Outside of [GitHub](https://github.com/PENA98/), You can **find me. Currently I'm **free to contribute**
 
+[![Twitter: Maynor Peña](https://img.shields.io/twitter/follow/PenaMaynor?style=social)](https://twitter.com/PenaMaynor)
+[![Linkedin: MianJawadAhmad](https://img.shields.io/badge/-MaynorPeña-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maynor-pe%C3%B1a-648306198/)](https://www.linkedin.com/in/maynor-pe%C3%B1a-648306198/)
+[![GitHub PENA98](https://img.shields.io/github/followers/PENA98?label=follow&style=social)](https://github.com/PENA98)
+
 
 
 <!--
