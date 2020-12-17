@@ -1,6 +1,6 @@
 ## ¡Hi!, I am Maynor Peña 👋
 
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/PENA98) represent my journey :running_man: - This is Maynor David Peña, I have over 1 years’ experience as a React Developer. I am a computer scientist by profession and entrepreneur by passion. I have worked in Android native, React, Vue, AI,  Data Science and Web development(Reactjs, Python, Nodejs) for database i use Firebase, SqlServer, Mysql, mongodb.
+**Happy to see you here!** :star_struck: <br> My [**GitHub** profile](https://github.com/PENA98) represents part of my journey :running_man: - This is Maynor David Peña, I have over 1 years’ experience as a React Developer. I am a computer scientist by profession and entrepreneur by passion. I have worked in Android native, React, Vue, AI,  Data Science and Web development(Reactjs, Python, Nodejs) for database i use Firebase, SqlServer, Mysql, mongodb.
 
 ### ¡Codewars rank!
 <code><img height="60" src="https://www.codewars.com/users/PENA98/badges/large"></code>
@@ -31,18 +31,3 @@ Outside of [GitHub](https://github.com/PENA98/), You can **find me. Currently I'
 [![GitHub PENA98](https://img.shields.io/github/followers/PENA98?label=follow&style=social)](https://github.com/PENA98)
 
 
-
-<!--
-**PENA98/PENA98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
