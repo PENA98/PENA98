@@ -1,7 +1,12 @@
 ### ¡Hi!, I am Maynor Peña 👋
 
+## ¡Come and practice your coding skills!
 <code><img height="20" src="https://www.codewars.com/users/PENA98/badges/large"></code>
-![GitHub stats]
+
+### Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PENA98&show_icons=true&hide_border=true&theme=radical&count_private=true)
+
+
 <!--
 **PENA98/PENA98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
