@@ -1,9 +1,12 @@
 ## ¡Hi!, I am Maynor Peña 👋
 
+**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/PENA98) represent my journey :running_man: - This is Maynor David Peña, I have over 1 years’ experience as a React Developer. I am a computer scientist by profession and entrepreneur by passion. I have worked in Android native, React, Vue, AI,  Data Science and Web development(Reactjs, Python, Nodejs) for database i use Firebase, SqlServer, Mysql, mongodb.
+
 ### ¡Codewars rank!
 <code><img height="60" src="https://www.codewars.com/users/PENA98/badges/large"></code>
 
-*Languages and Tools:**
+
+*Languages and Tools:*
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
