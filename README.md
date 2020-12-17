@@ -1,7 +1,7 @@
 ## ¡Hi!, I am Maynor Peña 👋
 
 ### ¡Codewars rank!
-<code><img height="20" src="https://www.codewars.com/users/PENA98/badges/large"></code>
+<code><img height="60" src="https://www.codewars.com/users/PENA98/badges/large"></code>
 
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PENA98&show_icons=true&hide_border=true&theme=radical&count_private=true)
