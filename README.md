@@ -1,6 +1,3 @@
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-
 ## ¡Hi!, I am Maynor Peña 👋
 
 **Happy to see you here!** :star_struck: <br> My [**GitHub** profile](https://github.com/PENA98) represents part of my journey :running_man: - This is Maynor David Peña, I have over 1 years’ experience as a React Developer. I am a computer scientist by profession and entrepreneur by passion. I have worked in Android native, React, Vue, AI,  Data Science and Web development(Reactjs, Python, Nodejs) for database i use Firebase, SqlServer, Mysql, mongodb.
@@ -20,8 +17,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<!-- in your body -->
-<code><i class="devicon-gimp-plain"></i></code>
 
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PENA98&show_icons=true&hide_border=true&theme=radical&count_private=true)
