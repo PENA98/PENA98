@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Full Stack Software Engineer with over 2 years of experience, I'm currently working @CodeÉxitos, and it's been an amazing ride so far.<br>👯 I’m looking to collaborate on open source projects that help learn new stuff and support our amazing and growing community.<br>🌱 I’m currently learning Django<br>💬 Ask me about my journey.<br>⚡ Fun fact, when I was a child, I wanted to be a physician. 🤪
+🔭 I'm a Full Stack Software Engineer with over 2 years of experience, I'm currently working @CodeÉxitos, and it's been an amazing ride so far.<br>👯 I’m looking to collaborate on open source projects that help learn new stuff and support our amazing and growing community.<br>🌱 I’m currently learning Prisma and Supabase<br>💬 Ask me about my journey.<br>⚡ Fun fact, when I was a child, I wanted to be a physician. 🤪
 
 
 ## 🌐 Socials:
