@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I'm a Full Stack Software Engineer with over 2 years of experience, I'm currently working @CodeÉxitos, and it's been an amazing ride so far.<br>👯 I’m looking to collaborate on open source projects that help learn new stuff and support our amazing and growing community.<br>🌱 I’m currently learning Prisma, Supabase and Trpc<br>💬 Ask me about my journey.<br>⚡ Fun fact, when I was a child, I wanted to be a physician. 🤪
 
-[![committers.top badge](https://user-badge.committers.top/honduras_private/PENA98.svg)](https://user-badge.committers.top/honduras_private/PENA98)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maynor-peña) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PenaMaynor) 
 
@@ -18,6 +16,11 @@
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+[![committers.top badge](https://user-badge.committers.top/honduras_private/PENA98.svg)](https://user-badge.committers.top/honduras_private/PENA98)
+![Visitor Count](https://profile-counter.glitch.me/PENA98/count.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PENA98&icon=0&color=10)](https://visitcount.itsvg.in)
