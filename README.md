@@ -19,11 +19,9 @@
 
 
 [![committers.top badge](https://user-badge.committers.top/honduras_private/PENA98.svg)](https://user-badge.committers.top/honduras_private/PENA98)
+----
 ![Visitor Count](https://profile-counter.glitch.me/PENA98/count.svg)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=PENA98&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
