@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Full Stack Software Engineer with over 2 years of experience, I'm currently working @CodeÉxitos, and it's been an amazing ride so far.<br>👯 I’m looking to collaborate on open source projects that help learn new stuff and support our amazing and growing community.<br>🌱 I’m currently learning Prisma, Supabase and Trpc<br>💬 Ask me about my journey.<br>⚡ Fun fact, when I was a child, I wanted to be a physician. 🤪
+🔭 I'm a Full Stack Software Engineer with over 4 years of experience, I'm currently working @CodeÉxitos, and it's been an amazing ride so far.<br>👯 I’m looking to collaborate on open source projects that help learn new stuff and support our amazing and growing community.<br>🌱 I’m currently learning Prisma, Supabase and Trpc<br>💬 Ask me about my journey.<br>⚡ Fun fact, when I was a child, I wanted to be a physician. 🤪
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maynor-peña) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PenaMaynor) 
